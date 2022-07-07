@@ -1,0 +1,19 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "men(mongodb, express js, node js) based app",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "AT Dilakshan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongodb": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
